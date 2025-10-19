@@ -1,0 +1,11 @@
+.date {
+  text-align: right;
+}
+
+.completeTask {
+  color: green;
+}
+
+.incompleteTask {
+  color: red;
+}
